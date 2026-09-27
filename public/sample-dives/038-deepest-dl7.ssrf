@@ -1,0 +1,961 @@
+<divelog program="subsurface" version="3">
+  <settings>
+    <fingerprint model="41ef6c17" serial="dbd25b89" deviceid="6bd59b91" diveid="1299c1eb" data="6a819037" />
+  </settings>
+  <divesites>
+    <site uuid="64b68b0f" name="Lady Luck" gps="26.230117 -80.063450">
+</site>
+  </divesites>
+  <dives>
+    <dive number="38" otu="66" cns="673169%" divesiteid="64b68b0f" date="2024-09-02" time="09:36:00" duration="31:24 min">
+      <cylinder size="12.087 l" workpressure="237.318 bar" description="HP100" o2="58.0%" start="237.318 bar" depth="65.734 m" />
+      <divecomputer model="DL7">
+        <depth max="40.538 m" mean="19.8 m" />
+        <temperature air="30.6 C" water="30.6 C" />
+        <sample time="0:00 min" depth="0.0 m" />
+        <sample time="0:02 min" depth="2.134 m" temp="30.6 C" />
+        <sample time="0:04 min" depth="2.134 m" />
+        <sample time="0:06 min" depth="2.438 m" />
+        <sample time="0:08 min" depth="1.829 m" />
+        <sample time="0:10 min" depth="1.829 m" />
+        <sample time="0:12 min" depth="1.524 m" />
+        <sample time="0:14 min" depth="2.438 m" />
+        <sample time="0:16 min" depth="2.438 m" />
+        <sample time="0:18 min" depth="2.743 m" />
+        <sample time="0:20 min" depth="3.048 m" />
+        <sample time="0:22 min" depth="3.353 m" />
+        <sample time="0:24 min" depth="3.658 m" />
+        <sample time="0:26 min" depth="3.658 m" />
+        <sample time="0:28 min" depth="3.962 m" />
+        <sample time="0:30 min" depth="3.962 m" />
+        <sample time="0:32 min" depth="4.267 m" />
+        <sample time="0:34 min" depth="4.267 m" />
+        <sample time="0:36 min" depth="4.267 m" />
+        <sample time="0:38 min" depth="4.572 m" />
+        <sample time="0:40 min" depth="5.182 m" />
+        <sample time="0:42 min" depth="5.486 m" />
+        <sample time="0:44 min" depth="5.182 m" />
+        <sample time="0:46 min" depth="5.486 m" />
+        <sample time="0:48 min" depth="5.486 m" />
+        <sample time="0:50 min" depth="6.096 m" />
+        <sample time="0:52 min" depth="6.096 m" />
+        <sample time="0:54 min" depth="6.401 m" />
+        <sample time="0:56 min" depth="6.401 m" />
+        <sample time="0:58 min" depth="6.706 m" />
+        <sample time="1:00 min" depth="6.706 m" />
+        <sample time="1:02 min" depth="7.01 m" />
+        <sample time="1:04 min" depth="7.315 m" />
+        <sample time="1:06 min" depth="7.315 m" />
+        <sample time="1:08 min" depth="7.315 m" />
+        <sample time="1:10 min" depth="7.315 m" />
+        <sample time="1:12 min" depth="7.315 m" />
+        <sample time="1:14 min" depth="7.315 m" />
+        <sample time="1:16 min" depth="7.62 m" />
+        <sample time="1:18 min" depth="7.62 m" />
+        <sample time="1:20 min" depth="7.925 m" />
+        <sample time="1:22 min" depth="8.534 m" />
+        <sample time="1:24 min" depth="8.839 m" />
+        <sample time="1:26 min" depth="8.839 m" />
+        <sample time="1:28 min" depth="9.144 m" />
+        <sample time="1:30 min" depth="9.449 m" />
+        <sample time="1:32 min" depth="9.754 m" />
+        <sample time="1:34 min" depth="10.058 m" />
+        <sample time="1:36 min" depth="10.363 m" />
+        <sample time="1:38 min" depth="10.363 m" />
+        <sample time="1:40 min" depth="10.668 m" />
+        <sample time="1:42 min" depth="10.973 m" />
+        <sample time="1:44 min" depth="11.278 m" />
+        <sample time="1:46 min" depth="11.278 m" />
+        <sample time="1:48 min" depth="11.278 m" />
+        <sample time="1:50 min" depth="11.582 m" />
+        <sample time="1:52 min" depth="11.582 m" />
+        <sample time="1:54 min" depth="11.582 m" />
+        <sample time="1:56 min" depth="11.887 m" />
+        <sample time="1:58 min" depth="12.192 m" />
+        <sample time="2:00 min" depth="12.802 m" />
+        <sample time="2:02 min" depth="12.497 m" />
+        <sample time="2:04 min" depth="12.802 m" />
+        <sample time="2:06 min" depth="13.106 m" />
+        <sample time="2:08 min" depth="12.802 m" />
+        <sample time="2:10 min" depth="13.106 m" />
+        <sample time="2:12 min" depth="13.106 m" />
+        <sample time="2:14 min" depth="13.411 m" />
+        <sample time="2:16 min" depth="13.411 m" />
+        <sample time="2:18 min" depth="12.802 m" />
+        <sample time="2:20 min" depth="13.411 m" />
+        <sample time="2:22 min" depth="13.411 m" />
+        <sample time="2:24 min" depth="13.106 m" />
+        <sample time="2:26 min" depth="13.411 m" />
+        <sample time="2:28 min" depth="13.106 m" />
+        <sample time="2:30 min" depth="13.106 m" />
+        <sample time="2:32 min" depth="13.106 m" />
+        <sample time="2:34 min" depth="13.106 m" />
+        <sample time="2:36 min" depth="13.106 m" />
+        <sample time="2:38 min" depth="13.106 m" />
+        <sample time="2:40 min" depth="13.106 m" />
+        <sample time="2:42 min" depth="13.411 m" />
+        <sample time="2:44 min" depth="13.106 m" />
+        <sample time="2:46 min" depth="13.106 m" />
+        <sample time="2:48 min" depth="13.106 m" />
+        <sample time="2:50 min" depth="13.106 m" />
+        <sample time="2:52 min" depth="13.106 m" />
+        <sample time="2:54 min" depth="13.106 m" />
+        <sample time="2:56 min" depth="13.106 m" />
+        <sample time="2:58 min" depth="13.106 m" />
+        <sample time="3:00 min" depth="13.106 m" />
+        <sample time="3:02 min" depth="13.106 m" />
+        <sample time="3:04 min" depth="13.106 m" />
+        <sample time="3:06 min" depth="13.411 m" />
+        <sample time="3:08 min" depth="13.411 m" />
+        <sample time="3:10 min" depth="13.106 m" />
+        <sample time="3:12 min" depth="13.106 m" />
+        <sample time="3:14 min" depth="13.106 m" />
+        <sample time="3:16 min" depth="13.106 m" />
+        <sample time="3:18 min" depth="13.106 m" />
+        <sample time="3:20 min" depth="13.106 m" />
+        <sample time="3:22 min" depth="13.411 m" />
+        <sample time="3:24 min" depth="13.411 m" />
+        <sample time="3:26 min" depth="13.106 m" />
+        <sample time="3:28 min" depth="13.106 m" />
+        <sample time="3:30 min" depth="13.106 m" />
+        <sample time="3:32 min" depth="13.411 m" />
+        <sample time="3:34 min" depth="13.411 m" />
+        <sample time="3:36 min" depth="13.411 m" />
+        <sample time="3:38 min" depth="13.411 m" />
+        <sample time="3:40 min" depth="13.106 m" />
+        <sample time="3:42 min" depth="13.411 m" />
+        <sample time="3:44 min" depth="13.411 m" />
+        <sample time="3:46 min" depth="12.802 m" />
+        <sample time="3:48 min" depth="12.802 m" />
+        <sample time="3:50 min" depth="12.802 m" />
+        <sample time="3:52 min" depth="12.802 m" />
+        <sample time="3:54 min" depth="13.106 m" />
+        <sample time="3:56 min" depth="13.106 m" />
+        <sample time="3:58 min" depth="13.106 m" />
+        <sample time="4:00 min" depth="13.106 m" />
+        <sample time="4:02 min" depth="13.106 m" />
+        <sample time="4:04 min" depth="13.411 m" />
+        <sample time="4:06 min" depth="13.411 m" />
+        <sample time="4:08 min" depth="13.411 m" />
+        <sample time="4:10 min" depth="13.411 m" />
+        <sample time="4:12 min" depth="13.411 m" />
+        <sample time="4:14 min" depth="13.411 m" />
+        <sample time="4:16 min" depth="13.106 m" />
+        <sample time="4:18 min" depth="13.106 m" />
+        <sample time="4:20 min" depth="13.106 m" />
+        <sample time="4:22 min" depth="13.106 m" />
+        <sample time="4:24 min" depth="13.411 m" />
+        <sample time="4:26 min" depth="13.106 m" />
+        <sample time="4:28 min" depth="13.106 m" />
+        <sample time="4:30 min" depth="13.106 m" />
+        <sample time="4:32 min" depth="13.411 m" />
+        <sample time="4:34 min" depth="13.106 m" />
+        <sample time="4:36 min" depth="13.106 m" />
+        <sample time="4:38 min" depth="13.106 m" />
+        <sample time="4:40 min" depth="13.106 m" />
+        <sample time="4:42 min" depth="13.106 m" />
+        <sample time="4:44 min" depth="12.802 m" />
+        <sample time="4:46 min" depth="13.106 m" />
+        <sample time="4:48 min" depth="13.106 m" />
+        <sample time="4:50 min" depth="13.106 m" />
+        <sample time="4:52 min" depth="13.106 m" />
+        <sample time="4:54 min" depth="13.106 m" />
+        <sample time="4:56 min" depth="13.106 m" />
+        <sample time="4:58 min" depth="13.106 m" />
+        <sample time="5:00 min" depth="13.411 m" />
+        <sample time="5:02 min" depth="13.411 m" />
+        <sample time="5:04 min" depth="14.021 m" />
+        <sample time="5:06 min" depth="13.716 m" />
+        <sample time="5:08 min" depth="14.021 m" />
+        <sample time="5:10 min" depth="14.021 m" />
+        <sample time="5:12 min" depth="14.326 m" />
+        <sample time="5:14 min" depth="14.63 m" />
+        <sample time="5:16 min" depth="14.935 m" />
+        <sample time="5:18 min" depth="14.935 m" />
+        <sample time="5:20 min" depth="15.24 m" />
+        <sample time="5:22 min" depth="15.24 m" />
+        <sample time="5:24 min" depth="15.545 m" />
+        <sample time="5:26 min" depth="15.545 m" />
+        <sample time="5:28 min" depth="15.85 m" />
+        <sample time="5:30 min" depth="16.154 m" />
+        <sample time="5:32 min" depth="16.459 m" />
+        <sample time="5:34 min" depth="16.459 m" />
+        <sample time="5:36 min" depth="16.764 m" />
+        <sample time="5:38 min" depth="17.069 m" />
+        <sample time="5:40 min" depth="17.678 m" />
+        <sample time="5:42 min" depth="17.678 m" />
+        <sample time="5:44 min" depth="17.983 m" />
+        <sample time="5:46 min" depth="17.983 m" />
+        <sample time="5:48 min" depth="17.983 m" />
+        <sample time="5:50 min" depth="18.288 m" />
+        <sample time="5:52 min" depth="18.593 m" />
+        <sample time="5:54 min" depth="18.593 m" />
+        <sample time="5:56 min" depth="18.593 m" />
+        <sample time="5:58 min" depth="18.898 m" />
+        <sample time="6:00 min" depth="19.202 m" />
+        <sample time="6:02 min" depth="19.202 m" />
+        <sample time="6:04 min" depth="19.507 m" />
+        <sample time="6:06 min" depth="19.507 m" />
+        <sample time="6:08 min" depth="19.812 m" />
+        <sample time="6:10 min" depth="19.812 m" />
+        <sample time="6:12 min" depth="20.117 m" />
+        <sample time="6:14 min" depth="20.117 m" />
+        <sample time="6:16 min" depth="20.422 m" />
+        <sample time="6:18 min" depth="20.726 m" />
+        <sample time="6:20 min" depth="21.031 m" />
+        <sample time="6:22 min" depth="21.031 m" />
+        <sample time="6:24 min" depth="21.336 m" />
+        <sample time="6:26 min" depth="21.641 m" />
+        <sample time="6:28 min" depth="21.641 m" />
+        <sample time="6:30 min" depth="21.946 m" />
+        <sample time="6:32 min" depth="22.25 m" />
+        <sample time="6:34 min" depth="21.946 m" />
+        <sample time="6:36 min" depth="22.25 m" />
+        <sample time="6:38 min" depth="22.25 m" />
+        <sample time="6:40 min" depth="22.86 m" />
+        <sample time="6:42 min" depth="23.47 m" />
+        <sample time="6:44 min" depth="23.47 m" />
+        <sample time="6:46 min" depth="23.774 m" />
+        <sample time="6:48 min" depth="23.774 m" />
+        <sample time="6:50 min" depth="23.774 m" />
+        <sample time="6:52 min" depth="24.079 m" />
+        <sample time="6:54 min" depth="24.079 m" />
+        <sample time="6:56 min" depth="24.689 m" />
+        <sample time="6:58 min" depth="24.994 m" />
+        <sample time="7:00 min" depth="25.298 m" />
+        <sample time="7:02 min" depth="25.603 m" />
+        <sample time="7:04 min" depth="25.908 m" />
+        <sample time="7:06 min" depth="25.908 m" />
+        <sample time="7:08 min" depth="26.213 m" />
+        <sample time="7:10 min" depth="26.518 m" />
+        <sample time="7:12 min" depth="26.822 m" />
+        <sample time="7:14 min" depth="27.127 m" />
+        <sample time="7:16 min" depth="27.432 m" />
+        <sample time="7:18 min" depth="27.737 m" />
+        <sample time="7:20 min" depth="27.737 m" />
+        <sample time="7:22 min" depth="27.737 m" />
+        <sample time="7:24 min" depth="28.042 m" />
+        <sample time="7:26 min" depth="28.346 m" />
+        <sample time="7:28 min" depth="28.346 m" />
+        <sample time="7:30 min" depth="28.651 m" />
+        <sample time="7:32 min" depth="28.956 m" />
+        <sample time="7:34 min" depth="28.956 m" />
+        <sample time="7:36 min" depth="28.956 m" />
+        <sample time="7:38 min" depth="28.956 m" />
+        <sample time="7:40 min" depth="29.261 m" />
+        <sample time="7:42 min" depth="29.261 m" />
+        <sample time="7:44 min" depth="29.261 m" />
+        <sample time="7:46 min" depth="28.956 m" />
+        <sample time="7:48 min" depth="28.956 m" />
+        <sample time="7:50 min" depth="28.956 m" />
+        <sample time="7:52 min" depth="28.651 m" />
+        <sample time="7:54 min" depth="29.261 m" />
+        <sample time="7:56 min" depth="29.261 m" />
+        <sample time="7:58 min" depth="28.956 m" />
+        <sample time="8:00 min" depth="28.956 m" />
+        <sample time="8:02 min" depth="29.261 m" />
+        <sample time="8:04 min" depth="29.261 m" />
+        <sample time="8:06 min" depth="29.566 m" />
+        <sample time="8:08 min" depth="29.566 m" />
+        <sample time="8:10 min" depth="29.87 m" />
+        <sample time="8:12 min" depth="29.87 m" />
+        <sample time="8:14 min" depth="30.175 m" />
+        <sample time="8:16 min" depth="30.48 m" />
+        <sample time="8:18 min" depth="30.785 m" />
+        <sample time="8:20 min" depth="30.785 m" />
+        <sample time="8:22 min" depth="31.09 m" />
+        <sample time="8:24 min" depth="31.09 m" />
+        <sample time="8:26 min" depth="31.394 m" />
+        <sample time="8:28 min" depth="31.394 m" />
+        <sample time="8:30 min" depth="31.699 m" />
+        <sample time="8:32 min" depth="31.394 m" />
+        <sample time="8:34 min" depth="31.699 m" />
+        <sample time="8:36 min" depth="31.699 m" />
+        <sample time="8:38 min" depth="31.699 m" />
+        <sample time="8:40 min" depth="31.699 m" />
+        <sample time="8:42 min" depth="32.004 m" />
+        <sample time="8:44 min" depth="32.004 m" />
+        <sample time="8:46 min" depth="32.614 m" />
+        <sample time="8:48 min" depth="32.918 m" />
+        <sample time="8:50 min" depth="33.528 m" />
+        <sample time="8:52 min" depth="33.528 m" />
+        <sample time="8:54 min" depth="33.833 m" />
+        <sample time="8:56 min" depth="34.442 m" />
+        <sample time="8:58 min" depth="34.442 m" temp="31.1 C" />
+        <sample time="9:00 min" depth="34.747 m" temp="30.6 C" />
+        <sample time="9:02 min" depth="35.052 m" />
+        <sample time="9:04 min" depth="35.662 m" />
+        <sample time="9:06 min" depth="35.966 m" />
+        <sample time="9:08 min" depth="36.271 m" />
+        <sample time="9:10 min" depth="36.271 m" />
+        <sample time="9:12 min" depth="36.576 m" />
+        <sample time="9:14 min" depth="36.576 m" />
+        <sample time="9:16 min" depth="36.881 m" />
+        <sample time="9:18 min" depth="37.49 m" />
+        <sample time="9:20 min" depth="37.49 m" temp="31.1 C" />
+        <sample time="9:22 min" depth="38.1 m" temp="30.6 C" />
+        <sample time="9:24 min" depth="38.1 m" />
+        <sample time="9:26 min" depth="38.405 m" />
+        <sample time="9:28 min" depth="38.405 m" />
+        <sample time="9:30 min" depth="38.71 m" temp="31.1 C" />
+        <sample time="9:32 min" depth="38.71 m" />
+        <sample time="9:34 min" depth="39.014 m" temp="30.6 C" />
+        <sample time="9:36 min" depth="39.624 m" />
+        <sample time="9:38 min" depth="39.929 m" temp="31.1 C" />
+        <sample time="9:40 min" depth="40.234 m" />
+        <sample time="9:42 min" depth="40.538 m" temp="30.6 C" />
+        <sample time="9:44 min" depth="40.234 m" temp="31.1 C" />
+        <sample time="9:46 min" depth="39.929 m" temp="30.6 C" />
+        <sample time="9:48 min" depth="39.929 m" />
+        <sample time="9:50 min" depth="39.624 m" />
+        <sample time="9:52 min" depth="39.319 m" />
+        <sample time="9:54 min" depth="39.014 m" />
+        <sample time="9:56 min" depth="39.014 m" />
+        <sample time="9:58 min" depth="39.014 m" temp="31.1 C" />
+        <sample time="10:00 min" depth="38.71 m" temp="30.6 C" />
+        <sample time="10:02 min" depth="38.1 m" />
+        <sample time="10:04 min" depth="38.1 m" temp="31.1 C" />
+        <sample time="10:06 min" depth="37.795 m" temp="30.6 C" />
+        <sample time="10:08 min" depth="37.49 m" />
+        <sample time="10:10 min" depth="37.49 m" />
+        <sample time="10:12 min" depth="36.881 m" />
+        <sample time="10:14 min" depth="36.881 m" />
+        <sample time="10:16 min" depth="36.576 m" />
+        <sample time="10:18 min" depth="36.271 m" />
+        <sample time="10:20 min" depth="36.271 m" />
+        <sample time="10:22 min" depth="35.966 m" />
+        <sample time="10:24 min" depth="35.966 m" />
+        <sample time="10:26 min" depth="35.662 m" />
+        <sample time="10:28 min" depth="35.357 m" />
+        <sample time="10:30 min" depth="35.357 m" />
+        <sample time="10:32 min" depth="35.052 m" />
+        <sample time="10:34 min" depth="34.747 m" />
+        <sample time="10:36 min" depth="34.747 m" />
+        <sample time="10:38 min" depth="34.442 m" />
+        <sample time="10:40 min" depth="34.442 m" />
+        <sample time="10:42 min" depth="34.442 m" />
+        <sample time="10:44 min" depth="34.138 m" />
+        <sample time="10:46 min" depth="33.833 m" />
+        <sample time="10:48 min" depth="33.223 m" />
+        <sample time="10:50 min" depth="33.223 m" />
+        <sample time="10:52 min" depth="33.223 m" />
+        <sample time="10:54 min" depth="32.918 m" />
+        <sample time="10:56 min" depth="32.614 m" />
+        <sample time="10:58 min" depth="32.309 m" />
+        <sample time="11:00 min" depth="32.004 m" />
+        <sample time="11:02 min" depth="31.699 m" />
+        <sample time="11:04 min" depth="31.394 m" />
+        <sample time="11:06 min" depth="31.394 m" />
+        <sample time="11:08 min" depth="31.09 m" />
+        <sample time="11:10 min" depth="30.785 m" />
+        <sample time="11:12 min" depth="30.48 m" />
+        <sample time="11:14 min" depth="30.785 m" />
+        <sample time="11:16 min" depth="30.785 m" />
+        <sample time="11:18 min" depth="30.785 m" />
+        <sample time="11:20 min" depth="30.785 m" />
+        <sample time="11:22 min" depth="30.175 m" />
+        <sample time="11:24 min" depth="30.175 m" />
+        <sample time="11:26 min" depth="30.175 m" />
+        <sample time="11:28 min" depth="30.175 m" />
+        <sample time="11:30 min" depth="29.87 m" />
+        <sample time="11:32 min" depth="29.566 m" />
+        <sample time="11:34 min" depth="29.87 m" />
+        <sample time="11:36 min" depth="29.87 m" />
+        <sample time="11:38 min" depth="29.87 m" />
+        <sample time="11:40 min" depth="30.175 m" />
+        <sample time="11:42 min" depth="30.175 m" />
+        <sample time="11:44 min" depth="30.175 m" />
+        <sample time="11:46 min" depth="30.48 m" />
+        <sample time="11:48 min" depth="30.48 m" />
+        <sample time="11:50 min" depth="30.48 m" />
+        <sample time="11:52 min" depth="30.48 m" />
+        <sample time="11:54 min" depth="30.175 m" />
+        <sample time="11:56 min" depth="30.175 m" />
+        <sample time="11:58 min" depth="30.175 m" />
+        <sample time="12:00 min" depth="30.175 m" />
+        <sample time="12:02 min" depth="30.175 m" />
+        <sample time="12:04 min" depth="29.87 m" />
+        <sample time="12:06 min" depth="30.175 m" />
+        <sample time="12:08 min" depth="30.175 m" />
+        <sample time="12:10 min" depth="30.175 m" />
+        <sample time="12:12 min" depth="30.175 m" />
+        <sample time="12:14 min" depth="30.175 m" />
+        <sample time="12:16 min" depth="30.175 m" />
+        <sample time="12:18 min" depth="30.48 m" temp="31.1 C" />
+        <sample time="12:20 min" depth="30.48 m" temp="30.6 C" />
+        <sample time="12:22 min" depth="30.785 m" />
+        <sample time="12:24 min" depth="30.785 m" />
+        <sample time="12:26 min" depth="30.785 m" />
+        <sample time="12:28 min" depth="30.785 m" temp="31.1 C" />
+        <sample time="12:30 min" depth="30.785 m" temp="30.6 C" />
+        <sample time="12:32 min" depth="31.09 m" />
+        <sample time="12:34 min" depth="31.09 m" />
+        <sample time="12:36 min" depth="31.09 m" />
+        <sample time="12:38 min" depth="31.09 m" />
+        <sample time="12:40 min" depth="31.394 m" />
+        <sample time="12:42 min" depth="31.699 m" />
+        <sample time="12:44 min" depth="31.699 m" />
+        <sample time="12:46 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="12:48 min" depth="31.699 m" temp="30.6 C" />
+        <sample time="12:50 min" depth="31.699 m" />
+        <sample time="12:52 min" depth="31.699 m" />
+        <sample time="12:54 min" depth="31.699 m" />
+        <sample time="12:56 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="12:58 min" depth="31.699 m" temp="30.6 C" />
+        <sample time="13:00 min" depth="32.004 m" temp="31.1 C" />
+        <sample time="13:02 min" depth="32.004 m" temp="30.6 C" />
+        <sample time="13:04 min" depth="32.004 m" />
+        <sample time="13:06 min" depth="32.004 m" />
+        <sample time="13:08 min" depth="32.309 m" />
+        <sample time="13:10 min" depth="32.309 m" temp="31.1 C" />
+        <sample time="13:12 min" depth="32.309 m" />
+        <sample time="13:14 min" depth="32.004 m" />
+        <sample time="13:16 min" depth="32.004 m" temp="30.6 C" />
+        <sample time="13:18 min" depth="32.004 m" />
+        <sample time="13:20 min" depth="32.004 m" />
+        <sample time="13:22 min" depth="32.004 m" temp="31.1 C" />
+        <sample time="13:24 min" depth="32.004 m" />
+        <sample time="13:26 min" depth="32.004 m" />
+        <sample time="13:28 min" depth="32.004 m" />
+        <sample time="13:30 min" depth="31.699 m" />
+        <sample time="13:32 min" depth="31.394 m" temp="30.6 C" />
+        <sample time="13:34 min" depth="31.394 m" temp="31.1 C" />
+        <sample time="13:36 min" depth="31.394 m" />
+        <sample time="13:38 min" depth="31.394 m" />
+        <sample time="13:40 min" depth="31.699 m" />
+        <sample time="13:42 min" depth="31.699 m" temp="30.6 C" />
+        <sample time="13:44 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="13:46 min" depth="31.699 m" />
+        <sample time="13:48 min" depth="31.699 m" temp="30.6 C" />
+        <sample time="13:50 min" depth="31.394 m" />
+        <sample time="13:52 min" depth="31.394 m" />
+        <sample time="13:54 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="13:56 min" depth="31.699 m" />
+        <sample time="13:58 min" depth="31.699 m" />
+        <sample time="14:00 min" depth="31.699 m" />
+        <sample time="14:02 min" depth="31.699 m" />
+        <sample time="14:04 min" depth="31.699 m" />
+        <sample time="14:06 min" depth="31.699 m" />
+        <sample time="14:08 min" depth="31.699 m" />
+        <sample time="14:10 min" depth="31.699 m" />
+        <sample time="14:12 min" depth="31.699 m" />
+        <sample time="14:14 min" depth="31.699 m" />
+        <sample time="14:16 min" depth="31.699 m" temp="30.6 C" />
+        <sample time="14:18 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="14:20 min" depth="31.699 m" temp="30.6 C" />
+        <sample time="14:22 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="14:24 min" depth="31.699 m" />
+        <sample time="14:26 min" depth="31.699 m" />
+        <sample time="14:28 min" depth="31.699 m" />
+        <sample time="14:30 min" depth="31.699 m" />
+        <sample time="14:32 min" depth="31.699 m" temp="30.6 C" />
+        <sample time="14:34 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="14:36 min" depth="31.699 m" temp="30.6 C" />
+        <sample time="14:38 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="14:40 min" depth="31.699 m" />
+        <sample time="14:42 min" depth="31.699 m" />
+        <sample time="14:44 min" depth="31.699 m" />
+        <sample time="14:46 min" depth="31.699 m" />
+        <sample time="14:48 min" depth="32.004 m" />
+        <sample time="14:50 min" depth="32.918 m" />
+        <sample time="14:52 min" depth="32.918 m" temp="30.6 C" />
+        <sample time="14:54 min" depth="32.614 m" temp="31.1 C" />
+        <sample time="14:56 min" depth="32.614 m" />
+        <sample time="14:58 min" depth="32.918 m" />
+        <sample time="15:00 min" depth="32.918 m" />
+        <sample time="15:02 min" depth="32.918 m" />
+        <sample time="15:04 min" depth="32.614 m" />
+        <sample time="15:06 min" depth="32.614 m" />
+        <sample time="15:08 min" depth="32.309 m" />
+        <sample time="15:10 min" depth="32.309 m" />
+        <sample time="15:12 min" depth="32.309 m" temp="30.6 C" />
+        <sample time="15:14 min" depth="32.309 m" temp="31.1 C" />
+        <sample time="15:16 min" depth="32.004 m" />
+        <sample time="15:18 min" depth="31.699 m" temp="30.6 C" />
+        <sample time="15:20 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="15:22 min" depth="31.394 m" />
+        <sample time="15:24 min" depth="31.699 m" />
+        <sample time="15:26 min" depth="31.699 m" />
+        <sample time="15:28 min" depth="31.699 m" />
+        <sample time="15:30 min" depth="31.699 m" />
+        <sample time="15:32 min" depth="31.699 m" />
+        <sample time="15:34 min" depth="31.699 m" />
+        <sample time="15:36 min" depth="31.699 m" />
+        <sample time="15:38 min" depth="31.394 m" />
+        <sample time="15:40 min" depth="31.699 m" />
+        <sample time="15:42 min" depth="31.394 m" />
+        <sample time="15:44 min" depth="31.699 m" />
+        <sample time="15:46 min" depth="31.699 m" />
+        <sample time="15:48 min" depth="31.699 m" />
+        <sample time="15:50 min" depth="31.394 m" temp="30.6 C" />
+        <sample time="15:52 min" depth="31.699 m" temp="31.1 C" />
+        <sample time="15:54 min" depth="31.699 m" />
+        <sample time="15:56 min" depth="31.394 m" temp="30.6 C" />
+        <sample time="15:58 min" depth="31.394 m" temp="31.1 C" />
+        <sample time="16:00 min" depth="31.09 m" />
+        <sample time="16:02 min" depth="31.09 m" temp="30.6 C" />
+        <sample time="16:04 min" depth="31.09 m" temp="31.1 C" />
+        <sample time="16:06 min" depth="31.09 m" />
+        <sample time="16:08 min" depth="30.785 m" />
+        <sample time="16:10 min" depth="30.48 m" temp="30.6 C" />
+        <sample time="16:12 min" depth="30.48 m" />
+        <sample time="16:14 min" depth="30.48 m" temp="31.1 C" />
+        <sample time="16:16 min" depth="30.48 m" />
+        <sample time="16:18 min" depth="30.175 m" />
+        <sample time="16:20 min" depth="30.175 m" />
+        <sample time="16:22 min" depth="29.87 m" />
+        <sample time="16:24 min" depth="29.87 m" />
+        <sample time="16:26 min" depth="29.87 m" temp="30.6 C" />
+        <sample time="16:28 min" depth="29.566 m" temp="31.1 C" />
+        <sample time="16:30 min" depth="29.566 m" />
+        <sample time="16:32 min" depth="29.261 m" />
+        <sample time="16:34 min" depth="29.261 m" temp="30.6 C" />
+        <sample time="16:36 min" depth="29.261 m" temp="31.1 C" />
+        <sample time="16:38 min" depth="28.651 m" />
+        <sample time="16:40 min" depth="28.956 m" />
+        <sample time="16:42 min" depth="28.651 m" />
+        <sample time="16:44 min" depth="28.651 m" temp="30.6 C" />
+        <sample time="16:46 min" depth="28.346 m" temp="31.1 C" />
+        <sample time="16:48 min" depth="28.651 m" />
+        <sample time="16:50 min" depth="28.346 m" />
+        <sample time="16:52 min" depth="28.346 m" />
+        <sample time="16:54 min" depth="28.346 m" temp="30.6 C" />
+        <sample time="16:56 min" depth="28.042 m" temp="31.1 C" />
+        <sample time="16:58 min" depth="28.042 m" />
+        <sample time="17:00 min" depth="28.042 m" />
+        <sample time="17:02 min" depth="28.042 m" temp="30.6 C" />
+        <sample time="17:04 min" depth="27.737 m" temp="31.1 C" />
+        <sample time="17:06 min" depth="27.737 m" temp="30.6 C" />
+        <sample time="17:08 min" depth="27.737 m" temp="31.1 C" />
+        <sample time="17:10 min" depth="27.737 m" />
+        <sample time="17:12 min" depth="27.432 m" />
+        <sample time="17:14 min" depth="27.127 m" temp="30.6 C" />
+        <sample time="17:16 min" depth="27.432 m" temp="31.1 C" />
+        <sample time="17:18 min" depth="27.127 m" temp="30.6 C" />
+        <sample time="17:20 min" depth="27.127 m" temp="31.1 C" />
+        <sample time="17:22 min" depth="27.127 m" temp="30.6 C" />
+        <sample time="17:24 min" depth="27.432 m" temp="31.1 C" />
+        <sample time="17:26 min" depth="27.432 m" />
+        <sample time="17:28 min" depth="27.127 m" />
+        <sample time="17:30 min" depth="27.127 m" />
+        <sample time="17:32 min" depth="27.432 m" />
+        <sample time="17:34 min" depth="27.432 m" temp="30.6 C" />
+        <sample time="17:36 min" depth="27.432 m" temp="31.1 C" />
+        <sample time="17:38 min" depth="27.432 m" />
+        <sample time="17:40 min" depth="27.432 m" />
+        <sample time="17:42 min" depth="27.432 m" temp="30.6 C" />
+        <sample time="17:44 min" depth="27.432 m" temp="31.1 C" />
+        <sample time="17:46 min" depth="27.432 m" />
+        <sample time="17:48 min" depth="27.737 m" temp="30.6 C" />
+        <sample time="17:50 min" depth="28.042 m" temp="31.1 C" />
+        <sample time="17:52 min" depth="28.042 m" />
+        <sample time="17:54 min" depth="28.042 m" temp="30.6 C" />
+        <sample time="17:56 min" depth="28.346 m" />
+        <sample time="17:58 min" depth="28.042 m" temp="31.1 C" />
+        <sample time="18:00 min" depth="28.042 m" />
+        <sample time="18:02 min" depth="28.346 m" temp="30.6 C" />
+        <sample time="18:04 min" depth="28.042 m" />
+        <sample time="18:06 min" depth="28.346 m" />
+        <sample time="18:08 min" depth="28.042 m" />
+        <sample time="18:10 min" depth="27.737 m" temp="31.1 C" />
+        <sample time="18:12 min" depth="28.042 m" />
+        <sample time="18:14 min" depth="28.042 m" />
+        <sample time="18:16 min" depth="28.042 m" />
+        <sample time="18:18 min" depth="28.346 m" />
+        <sample time="18:20 min" depth="28.346 m" />
+        <sample time="18:22 min" depth="28.346 m" />
+        <sample time="18:24 min" depth="28.042 m" />
+        <sample time="18:26 min" depth="28.042 m" />
+        <sample time="18:28 min" depth="28.042 m" temp="30.6 C" />
+        <sample time="18:30 min" depth="28.042 m" temp="31.1 C" />
+        <sample time="18:32 min" depth="28.042 m" />
+        <sample time="18:34 min" depth="28.042 m" />
+        <sample time="18:36 min" depth="28.042 m" />
+        <sample time="18:38 min" depth="28.042 m" />
+        <sample time="18:40 min" depth="28.042 m" />
+        <sample time="18:42 min" depth="27.432 m" />
+        <sample time="18:44 min" depth="28.042 m" />
+        <sample time="18:46 min" depth="28.042 m" temp="30.6 C" />
+        <sample time="18:48 min" depth="27.737 m" temp="31.1 C" />
+        <sample time="18:50 min" depth="27.737 m" />
+        <sample time="18:52 min" depth="27.737 m" />
+        <sample time="18:54 min" depth="27.737 m" />
+        <sample time="18:56 min" depth="27.737 m" />
+        <sample time="18:58 min" depth="27.737 m" />
+        <sample time="19:00 min" depth="27.432 m" temp="30.6 C" />
+        <sample time="19:02 min" depth="27.432 m" temp="31.1 C" />
+        <sample time="19:04 min" depth="27.127 m" />
+        <sample time="19:06 min" depth="27.127 m" />
+        <sample time="19:08 min" depth="26.822 m" />
+        <sample time="19:10 min" depth="26.822 m" />
+        <sample time="19:12 min" depth="26.518 m" temp="30.6 C" />
+        <sample time="19:14 min" depth="27.127 m" temp="31.1 C" />
+        <sample time="19:16 min" depth="27.127 m" />
+        <sample time="19:18 min" depth="27.432 m" />
+        <sample time="19:20 min" depth="27.432 m" />
+        <sample time="19:22 min" depth="27.737 m" temp="30.6 C" />
+        <sample time="19:24 min" depth="28.042 m" temp="31.1 C" />
+        <sample time="19:26 min" depth="28.042 m" />
+        <sample time="19:28 min" depth="28.346 m" />
+        <sample time="19:30 min" depth="28.651 m" />
+        <sample time="19:32 min" depth="28.956 m" />
+        <sample time="19:34 min" depth="29.261 m" />
+        <sample time="19:36 min" depth="29.261 m" temp="30.6 C" />
+        <sample time="19:38 min" depth="29.566 m" temp="31.1 C" />
+        <sample time="19:40 min" depth="29.566 m" />
+        <sample time="19:42 min" depth="29.566 m" />
+        <sample time="19:44 min" depth="29.566 m" />
+        <sample time="19:46 min" depth="29.566 m" temp="30.6 C" />
+        <sample time="19:48 min" depth="29.566 m" />
+        <sample time="19:50 min" depth="29.566 m" temp="31.1 C" />
+        <sample time="19:52 min" depth="29.566 m" />
+        <sample time="19:54 min" depth="29.566 m" temp="30.6 C" />
+        <sample time="19:56 min" depth="29.566 m" temp="31.1 C" />
+        <sample time="19:58 min" depth="29.261 m" />
+        <sample time="20:00 min" depth="28.956 m" />
+        <sample time="20:02 min" depth="28.956 m" />
+        <sample time="20:04 min" depth="29.261 m" />
+        <sample time="20:06 min" depth="29.261 m" temp="30.6 C" />
+        <sample time="20:08 min" depth="29.261 m" temp="31.1 C" />
+        <sample time="20:10 min" depth="29.261 m" />
+        <sample time="20:12 min" depth="29.261 m" />
+        <sample time="20:14 min" depth="29.261 m" temp="30.6 C" />
+        <sample time="20:16 min" depth="28.956 m" />
+        <sample time="20:18 min" depth="28.956 m" temp="31.1 C" />
+        <sample time="20:20 min" depth="28.651 m" temp="30.6 C" />
+        <sample time="20:22 min" depth="28.346 m" />
+        <sample time="20:24 min" depth="28.042 m" />
+        <sample time="20:26 min" depth="28.042 m" />
+        <sample time="20:28 min" depth="28.042 m" temp="31.1 C" />
+        <sample time="20:30 min" depth="27.737 m" temp="30.6 C" />
+        <sample time="20:32 min" depth="27.432 m" />
+        <sample time="20:34 min" depth="27.432 m" temp="31.1 C" />
+        <sample time="20:36 min" depth="27.127 m" />
+        <sample time="20:38 min" depth="27.127 m" />
+        <sample time="20:40 min" depth="27.127 m" />
+        <sample time="20:42 min" depth="27.127 m" temp="30.6 C" />
+        <sample time="20:44 min" depth="27.127 m" temp="31.1 C" />
+        <sample time="20:46 min" depth="27.127 m" />
+        <sample time="20:48 min" depth="26.822 m" />
+        <sample time="20:50 min" depth="26.518 m" temp="30.6 C" />
+        <sample time="20:52 min" depth="26.518 m" temp="31.1 C" />
+        <sample time="20:54 min" depth="26.518 m" temp="30.6 C" />
+        <sample time="20:56 min" depth="26.518 m" temp="31.1 C" />
+        <sample time="20:58 min" depth="26.822 m" temp="30.6 C" />
+        <sample time="21:00 min" depth="26.518 m" />
+        <sample time="21:02 min" depth="26.518 m" temp="31.1 C" />
+        <sample time="21:04 min" depth="26.518 m" temp="30.6 C" />
+        <sample time="21:06 min" depth="26.518 m" temp="31.1 C" />
+        <sample time="21:08 min" depth="26.518 m" temp="30.6 C" />
+        <sample time="21:10 min" depth="26.518 m" temp="31.1 C" />
+        <sample time="21:12 min" depth="26.213 m" temp="30.6 C" />
+        <sample time="21:14 min" depth="26.213 m" />
+        <sample time="21:16 min" depth="25.908 m" temp="31.1 C" />
+        <sample time="21:18 min" depth="25.603 m" />
+        <sample time="21:20 min" depth="25.298 m" />
+        <sample time="21:22 min" depth="25.298 m" temp="30.6 C" />
+        <sample time="21:24 min" depth="24.994 m" />
+        <sample time="21:26 min" depth="24.689 m" />
+        <sample time="21:28 min" depth="24.689 m" />
+        <sample time="21:30 min" depth="24.384 m" />
+        <sample time="21:32 min" depth="24.079 m" />
+        <sample time="21:34 min" depth="23.774 m" />
+        <sample time="21:36 min" depth="23.774 m" />
+        <sample time="21:38 min" depth="23.774 m" />
+        <sample time="21:40 min" depth="23.47 m" />
+        <sample time="21:42 min" depth="23.47 m" />
+        <sample time="21:44 min" depth="23.165 m" />
+        <sample time="21:46 min" depth="23.165 m" />
+        <sample time="21:48 min" depth="22.86 m" />
+        <sample time="21:50 min" depth="22.555 m" />
+        <sample time="21:52 min" depth="22.25 m" />
+        <sample time="21:54 min" depth="21.946 m" />
+        <sample time="21:56 min" depth="21.641 m" />
+        <sample time="21:58 min" depth="21.641 m" temp="31.1 C" />
+        <sample time="22:00 min" depth="21.336 m" temp="30.6 C" />
+        <sample time="22:02 min" depth="21.336 m" />
+        <sample time="22:04 min" depth="21.031 m" />
+        <sample time="22:06 min" depth="20.422 m" />
+        <sample time="22:08 min" depth="20.117 m" />
+        <sample time="22:10 min" depth="20.117 m" />
+        <sample time="22:12 min" depth="19.812 m" temp="31.1 C" />
+        <sample time="22:14 min" depth="19.812 m" temp="30.6 C" />
+        <sample time="22:16 min" depth="19.812 m" />
+        <sample time="22:18 min" depth="19.507 m" temp="31.1 C" />
+        <sample time="22:20 min" depth="19.507 m" temp="30.6 C" />
+        <sample time="22:22 min" depth="19.507 m" />
+        <sample time="22:24 min" depth="19.202 m" />
+        <sample time="22:26 min" depth="18.898 m" />
+        <sample time="22:28 min" depth="18.898 m" />
+        <sample time="22:30 min" depth="18.593 m" />
+        <sample time="22:32 min" depth="18.593 m" />
+        <sample time="22:34 min" depth="18.288 m" />
+        <sample time="22:36 min" depth="17.983 m" />
+        <sample time="22:38 min" depth="17.983 m" />
+        <sample time="22:40 min" depth="17.983 m" />
+        <sample time="22:42 min" depth="17.678 m" />
+        <sample time="22:44 min" depth="17.678 m" />
+        <sample time="22:46 min" depth="17.374 m" />
+        <sample time="22:48 min" depth="17.374 m" temp="31.1 C" />
+        <sample time="22:50 min" depth="17.069 m" temp="30.6 C" />
+        <sample time="22:52 min" depth="16.764 m" />
+        <sample time="22:54 min" depth="16.459 m" />
+        <sample time="22:56 min" depth="16.459 m" />
+        <sample time="22:58 min" depth="16.154 m" />
+        <sample time="23:00 min" depth="16.154 m" />
+        <sample time="23:02 min" depth="15.85 m" />
+        <sample time="23:04 min" depth="15.85 m" />
+        <sample time="23:06 min" depth="15.85 m" />
+        <sample time="23:08 min" depth="15.545 m" />
+        <sample time="23:10 min" depth="15.24 m" />
+        <sample time="23:12 min" depth="15.24 m" />
+        <sample time="23:14 min" depth="14.935 m" />
+        <sample time="23:16 min" depth="14.63 m" />
+        <sample time="23:18 min" depth="14.326 m" />
+        <sample time="23:20 min" depth="14.326 m" />
+        <sample time="23:22 min" depth="14.326 m" />
+        <sample time="23:24 min" depth="14.021 m" />
+        <sample time="23:26 min" depth="14.021 m" />
+        <sample time="23:28 min" depth="13.716 m" />
+        <sample time="23:30 min" depth="13.411 m" />
+        <sample time="23:32 min" depth="13.411 m" />
+        <sample time="23:34 min" depth="13.106 m" />
+        <sample time="23:36 min" depth="13.106 m" />
+        <sample time="23:38 min" depth="13.106 m" />
+        <sample time="23:40 min" depth="12.802 m" />
+        <sample time="23:42 min" depth="12.497 m" />
+        <sample time="23:44 min" depth="12.497 m" />
+        <sample time="23:46 min" depth="12.497 m" temp="31.1 C" />
+        <sample time="23:48 min" depth="12.497 m" temp="30.6 C" />
+        <sample time="23:50 min" depth="12.192 m" />
+        <sample time="23:52 min" depth="12.192 m" temp="31.1 C" />
+        <sample time="23:54 min" depth="11.887 m" temp="30.6 C" />
+        <sample time="23:56 min" depth="11.582 m" />
+        <sample time="23:58 min" depth="11.582 m" />
+        <sample time="24:00 min" depth="11.582 m" />
+        <sample time="24:02 min" depth="11.278 m" />
+        <sample time="24:04 min" depth="11.278 m" />
+        <sample time="24:06 min" depth="11.278 m" />
+        <sample time="24:08 min" depth="10.973 m" />
+        <sample time="24:10 min" depth="10.363 m" temp="31.1 C" />
+        <sample time="24:12 min" depth="10.363 m" temp="30.6 C" />
+        <sample time="24:14 min" depth="10.668 m" />
+        <sample time="24:16 min" depth="10.363 m" />
+        <sample time="24:18 min" depth="10.058 m" />
+        <sample time="24:20 min" depth="9.754 m" />
+        <sample time="24:22 min" depth="9.754 m" />
+        <sample time="24:24 min" depth="9.449 m" temp="31.1 C" />
+        <sample time="24:26 min" depth="9.144 m" temp="30.6 C" />
+        <sample time="24:28 min" depth="8.839 m" />
+        <sample time="24:30 min" depth="8.534 m" />
+        <sample time="24:32 min" depth="8.23 m" />
+        <sample time="24:34 min" depth="7.925 m" />
+        <sample time="24:36 min" depth="7.925 m" />
+        <sample time="24:38 min" depth="7.925 m" />
+        <sample time="24:40 min" depth="7.925 m" />
+        <sample time="24:42 min" depth="7.925 m" />
+        <sample time="24:44 min" depth="7.62 m" />
+        <sample time="24:46 min" depth="7.315 m" />
+        <sample time="24:48 min" depth="7.01 m" />
+        <sample time="24:50 min" depth="7.01 m" />
+        <sample time="24:52 min" depth="7.01 m" />
+        <sample time="24:54 min" depth="6.706 m" />
+        <sample time="24:56 min" depth="6.706 m" />
+        <sample time="24:58 min" depth="6.401 m" />
+        <sample time="25:00 min" depth="6.706 m" />
+        <sample time="25:02 min" depth="6.706 m" />
+        <sample time="25:04 min" depth="5.791 m" />
+        <sample time="25:06 min" depth="6.096 m" />
+        <sample time="25:08 min" depth="6.401 m" />
+        <sample time="25:10 min" depth="6.706 m" />
+        <sample time="25:12 min" depth="6.401 m" temp="31.1 C" />
+        <sample time="25:14 min" depth="6.706 m" temp="30.6 C" />
+        <sample time="25:16 min" depth="6.706 m" />
+        <sample time="25:18 min" depth="7.01 m" />
+        <sample time="25:20 min" depth="7.01 m" />
+        <sample time="25:22 min" depth="7.01 m" />
+        <sample time="25:24 min" depth="6.706 m" />
+        <sample time="25:26 min" depth="7.01 m" />
+        <sample time="25:28 min" depth="7.01 m" />
+        <sample time="25:30 min" depth="6.706 m" />
+        <sample time="25:32 min" depth="6.096 m" />
+        <sample time="25:34 min" depth="6.096 m" />
+        <sample time="25:36 min" depth="5.791 m" />
+        <sample time="25:38 min" depth="5.791 m" />
+        <sample time="25:40 min" depth="5.791 m" />
+        <sample time="25:42 min" depth="5.791 m" />
+        <sample time="25:44 min" depth="5.791 m" />
+        <sample time="25:46 min" depth="5.791 m" />
+        <sample time="25:48 min" depth="5.791 m" />
+        <sample time="25:50 min" depth="6.096 m" />
+        <sample time="25:52 min" depth="6.096 m" />
+        <sample time="25:54 min" depth="6.401 m" />
+        <sample time="25:56 min" depth="6.096 m" />
+        <sample time="25:58 min" depth="5.791 m" />
+        <sample time="26:00 min" depth="5.486 m" />
+        <sample time="26:02 min" depth="5.486 m" />
+        <sample time="26:04 min" depth="5.486 m" />
+        <sample time="26:06 min" depth="5.486 m" />
+        <sample time="26:08 min" depth="5.486 m" />
+        <sample time="26:10 min" depth="5.486 m" />
+        <sample time="26:12 min" depth="5.486 m" />
+        <sample time="26:14 min" depth="5.486 m" />
+        <sample time="26:16 min" depth="5.486 m" />
+        <sample time="26:18 min" depth="5.486 m" />
+        <sample time="26:20 min" depth="5.486 m" />
+        <sample time="26:22 min" depth="5.486 m" />
+        <sample time="26:24 min" depth="5.486 m" />
+        <sample time="26:26 min" depth="5.486 m" />
+        <sample time="26:28 min" depth="5.486 m" />
+        <sample time="26:30 min" depth="6.096 m" />
+        <sample time="26:32 min" depth="6.096 m" />
+        <sample time="26:34 min" depth="6.401 m" />
+        <sample time="26:36 min" depth="6.401 m" />
+        <sample time="26:38 min" depth="6.096 m" />
+        <sample time="26:40 min" depth="6.096 m" />
+        <sample time="26:42 min" depth="5.791 m" />
+        <sample time="26:44 min" depth="5.791 m" />
+        <sample time="26:46 min" depth="5.791 m" />
+        <sample time="26:48 min" depth="5.791 m" />
+        <sample time="26:50 min" depth="5.486 m" />
+        <sample time="26:52 min" depth="5.486 m" />
+        <sample time="26:54 min" depth="5.791 m" />
+        <sample time="26:56 min" depth="5.791 m" />
+        <sample time="26:58 min" depth="5.791 m" />
+        <sample time="27:00 min" depth="5.791 m" />
+        <sample time="27:02 min" depth="5.486 m" />
+        <sample time="27:04 min" depth="5.486 m" />
+        <sample time="27:06 min" depth="5.791 m" />
+        <sample time="27:08 min" depth="5.791 m" />
+        <sample time="27:10 min" depth="5.791 m" />
+        <sample time="27:12 min" depth="5.791 m" />
+        <sample time="27:14 min" depth="5.486 m" />
+        <sample time="27:16 min" depth="5.486 m" />
+        <sample time="27:18 min" depth="5.486 m" />
+        <sample time="27:20 min" depth="5.486 m" />
+        <sample time="27:22 min" depth="5.486 m" />
+        <sample time="27:24 min" depth="5.486 m" />
+        <sample time="27:26 min" depth="5.486 m" />
+        <sample time="27:28 min" depth="5.486 m" />
+        <sample time="27:30 min" depth="5.182 m" />
+        <sample time="27:32 min" depth="5.791 m" />
+        <sample time="27:34 min" depth="5.791 m" />
+        <sample time="27:36 min" depth="5.791 m" />
+        <sample time="27:38 min" depth="5.791 m" />
+        <sample time="27:40 min" depth="5.791 m" />
+        <sample time="27:42 min" depth="5.791 m" />
+        <sample time="27:44 min" depth="5.791 m" />
+        <sample time="27:46 min" depth="5.791 m" />
+        <sample time="27:48 min" depth="5.791 m" />
+        <sample time="27:50 min" depth="5.486 m" />
+        <sample time="27:52 min" depth="5.486 m" />
+        <sample time="27:54 min" depth="5.486 m" />
+        <sample time="27:56 min" depth="5.486 m" />
+        <sample time="27:58 min" depth="5.486 m" />
+        <sample time="28:00 min" depth="5.486 m" />
+        <sample time="28:02 min" depth="5.486 m" />
+        <sample time="28:04 min" depth="5.486 m" />
+        <sample time="28:06 min" depth="5.791 m" />
+        <sample time="28:08 min" depth="5.791 m" />
+        <sample time="28:10 min" depth="5.486 m" />
+        <sample time="28:12 min" depth="5.486 m" />
+        <sample time="28:14 min" depth="5.486 m" />
+        <sample time="28:16 min" depth="5.182 m" />
+        <sample time="28:18 min" depth="5.182 m" />
+        <sample time="28:20 min" depth="5.182 m" />
+        <sample time="28:22 min" depth="5.182 m" />
+        <sample time="28:24 min" depth="4.877 m" />
+        <sample time="28:26 min" depth="5.182 m" />
+        <sample time="28:28 min" depth="5.182 m" />
+        <sample time="28:30 min" depth="5.182 m" />
+        <sample time="28:32 min" depth="5.182 m" />
+        <sample time="28:34 min" depth="5.182 m" />
+        <sample time="28:36 min" depth="5.486 m" />
+        <sample time="28:38 min" depth="5.486 m" />
+        <sample time="28:40 min" depth="5.182 m" />
+        <sample time="28:42 min" depth="5.182 m" />
+        <sample time="28:44 min" depth="5.182 m" />
+        <sample time="28:46 min" depth="5.182 m" />
+        <sample time="28:48 min" depth="4.877 m" />
+        <sample time="28:50 min" depth="5.182 m" />
+        <sample time="28:52 min" depth="4.877 m" />
+        <sample time="28:54 min" depth="5.182 m" />
+        <sample time="28:56 min" depth="4.877 m" />
+        <sample time="28:58 min" depth="4.572 m" />
+        <sample time="29:00 min" depth="4.572 m" />
+        <sample time="29:02 min" depth="4.572 m" />
+        <sample time="29:04 min" depth="4.877 m" />
+        <sample time="29:06 min" depth="4.877 m" />
+        <sample time="29:08 min" depth="4.877 m" />
+        <sample time="29:10 min" depth="4.877 m" />
+        <sample time="29:12 min" depth="4.877 m" />
+        <sample time="29:14 min" depth="4.877 m" />
+        <sample time="29:16 min" depth="4.877 m" />
+        <sample time="29:18 min" depth="4.877 m" />
+        <sample time="29:20 min" depth="4.877 m" />
+        <sample time="29:22 min" depth="4.877 m" />
+        <sample time="29:24 min" depth="4.877 m" />
+        <sample time="29:26 min" depth="4.877 m" />
+        <sample time="29:28 min" depth="4.877 m" />
+        <sample time="29:30 min" depth="4.877 m" />
+        <sample time="29:32 min" depth="5.182 m" />
+        <sample time="29:34 min" depth="5.182 m" />
+        <sample time="29:36 min" depth="4.572 m" />
+        <sample time="29:38 min" depth="4.877 m" />
+        <sample time="29:40 min" depth="4.877 m" />
+        <sample time="29:42 min" depth="4.877 m" />
+        <sample time="29:44 min" depth="5.182 m" />
+        <sample time="29:46 min" depth="5.182 m" />
+        <sample time="29:48 min" depth="5.182 m" />
+        <sample time="29:50 min" depth="5.182 m" />
+        <sample time="29:52 min" depth="5.182 m" />
+        <sample time="29:54 min" depth="5.182 m" />
+        <sample time="29:56 min" depth="4.877 m" />
+        <sample time="29:58 min" depth="4.877 m" />
+        <sample time="30:00 min" depth="4.877 m" />
+        <sample time="30:02 min" depth="4.877 m" />
+        <sample time="30:04 min" depth="4.877 m" />
+        <sample time="30:06 min" depth="4.877 m" />
+        <sample time="30:08 min" depth="4.877 m" />
+        <sample time="30:10 min" depth="4.572 m" />
+        <sample time="30:12 min" depth="4.877 m" />
+        <sample time="30:14 min" depth="5.182 m" />
+        <sample time="30:16 min" depth="5.486 m" />
+        <sample time="30:18 min" depth="5.486 m" />
+        <sample time="30:20 min" depth="5.182 m" />
+        <sample time="30:22 min" depth="5.182 m" />
+        <sample time="30:24 min" depth="4.877 m" />
+        <sample time="30:26 min" depth="4.877 m" />
+        <sample time="30:28 min" depth="4.877 m" />
+        <sample time="30:30 min" depth="4.877 m" />
+        <sample time="30:32 min" depth="4.572 m" />
+        <sample time="30:34 min" depth="4.267 m" />
+        <sample time="30:36 min" depth="4.572 m" />
+        <sample time="30:38 min" depth="4.572 m" />
+        <sample time="30:40 min" depth="4.267 m" />
+        <sample time="30:42 min" depth="3.962 m" />
+        <sample time="30:44 min" depth="4.267 m" />
+        <sample time="30:46 min" depth="3.962 m" />
+        <sample time="30:48 min" depth="4.267 m" />
+        <sample time="30:50 min" depth="4.267 m" />
+        <sample time="30:52 min" depth="4.267 m" />
+        <sample time="30:54 min" depth="4.267 m" />
+        <sample time="30:56 min" depth="4.267 m" />
+        <sample time="30:58 min" depth="4.267 m" />
+        <sample time="31:00 min" depth="3.962 m" />
+        <sample time="31:02 min" depth="3.962 m" />
+        <sample time="31:04 min" depth="3.962 m" />
+        <sample time="31:06 min" depth="3.658 m" />
+        <sample time="31:08 min" depth="3.658 m" />
+        <sample time="31:10 min" depth="3.353 m" />
+        <sample time="31:12 min" depth="3.048 m" />
+        <sample time="31:14 min" depth="3.048 m" />
+        <sample time="31:16 min" depth="2.743 m" />
+        <sample time="31:18 min" depth="2.438 m" />
+        <sample time="31:20 min" depth="2.438 m" />
+        <sample time="31:22 min" depth="2.438 m" />
+        <sample time="31:24 min" depth="1.829 m" />
+      </divecomputer>
+    </dive>
+  </dives>
+</divelog>

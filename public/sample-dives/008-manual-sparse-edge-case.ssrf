@@ -1,0 +1,27 @@
+<divelog program="subsurface" version="3">
+  <settings>
+    <fingerprint model="41ef6c17" serial="dbd25b89" deviceid="6bd59b91" diveid="1299c1eb" data="6a819037" />
+  </settings>
+  <divesites>
+    <site uuid="424d1811" name="Boynton Ledge" gps="26.506575 -80.038841">
+      <notes>50-85 foot </notes>
+    </site>
+  </divesites>
+  <dives>
+    <dive number="8" otu="32" cns="11%" divesiteid="424d1811" watersalinity="1030 g/l" date="2023-07-22" time="09:30:30" duration="41:49 min">
+      <notes>Dive info lost due to computer malfunctions. The dive profile is a best guess.</notes>
+      <cylinder size="12.087 l" workpressure="237.318 bar" description="HP100" o2="34.0%" depth="65.734 m" />
+      <divecomputer model="manually added dive" last-manual-time="40:00 min">
+        <depth max="19.215 m" mean="15.291 m" />
+        <sample time="0:00 min" depth="0.0 m" />
+        <sample time="2:23 min" depth="19.215 m" />
+        <sample time="27:35 min" depth="19.215 m" />
+        <sample time="31:50 min" depth="12.81 m" />
+        <sample time="36:27 min" depth="5.0 m" />
+        <sample time="39:47 min" depth="5.185 m" />
+        <sample time="41:41 min" depth="1.22 m" />
+        <sample time="41:49 min" depth="0.0 m" />
+      </divecomputer>
+    </dive>
+  </dives>
+</divelog>

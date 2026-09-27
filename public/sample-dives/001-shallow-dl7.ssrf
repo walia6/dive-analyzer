@@ -1,0 +1,117 @@
+<divelog program="subsurface" version="3">
+  <settings>
+    <fingerprint model="41ef6c17" serial="dbd25b89" deviceid="6bd59b91" diveid="1299c1eb" data="6a819037" />
+  </settings>
+  <divesites>
+    <site uuid="19d47309" name="Blue Heron Bridge" gps="26.782335 -80.047754">
+      <notes>25 foot </notes>
+    </site>
+  </divesites>
+  <dives>
+    <dive number="1" visibility="5" sac="43.235 l/min" otu="1" cns="1%" divesiteid="19d47309" watersalinity="1030 g/l" date="2023-07-13" time="17:36:00" airpressure="1.013 bar" duration="38:00 min">
+      <cylinder size="11.094 l" workpressure="206.843 bar" description="AL80" o2="36.0%" start="236.352 bar" end="29.785 bar" depth="65.734 m" />
+      <divecomputer model="DL7" date="2023-07-14" time="05:36:00">
+        <depth max="5.182 m" mean="3.116 m" />
+        <temperature air="31.7 C" water="31.7 C" />
+        <sample time="0:00 min" depth="0.0 m" />
+        <sample time="0:30 min" depth="1.524 m" temp="32.2 C" />
+        <sample time="1:00 min" depth="2.743 m" />
+        <sample time="1:30 min" depth="3.048 m" temp="31.7 C" />
+        <sample time="2:00 min" depth="3.353 m" />
+        <sample time="2:30 min" depth="3.048 m" />
+        <sample time="3:00 min" depth="2.134 m" />
+        <sample time="3:30 min" depth="2.134 m" />
+        <sample time="4:00 min" depth="2.134 m" />
+        <sample time="4:30 min" depth="2.743 m" />
+        <sample time="5:00 min" depth="3.353 m" />
+        <sample time="5:30 min" depth="3.048 m" />
+        <sample time="6:00 min" depth="3.048 m" />
+        <sample time="6:30 min" depth="2.743 m" />
+        <sample time="7:00 min" depth="2.743 m" />
+        <sample time="7:30 min" depth="2.134 m" />
+        <sample time="8:00 min" depth="2.134 m" />
+        <sample time="8:30 min" depth="1.524 m" />
+        <sample time="9:00 min" depth="2.134 m" />
+        <sample time="9:30 min" depth="2.743 m" />
+        <sample time="10:00 min" depth="2.743 m" />
+        <sample time="10:30 min" depth="3.353 m" />
+        <sample time="11:00 min" depth="3.658 m" />
+        <sample time="11:30 min" depth="2.743 m" />
+        <sample time="12:00 min" depth="3.353 m" />
+        <sample time="12:30 min" depth="3.658 m" />
+        <sample time="13:00 min" depth="3.658 m" />
+        <sample time="13:30 min" depth="3.353 m" />
+        <sample time="14:00 min" depth="3.353 m" temp="32.2 C" />
+        <sample time="14:30 min" depth="3.353 m" temp="31.7 C" />
+        <sample time="15:00 min" depth="3.658 m" />
+        <sample time="15:30 min" depth="3.048 m" />
+        <sample time="16:00 min" depth="3.353 m" />
+        <sample time="16:30 min" depth="3.048 m" />
+        <sample time="17:00 min" depth="2.438 m" />
+        <sample time="17:30 min" depth="2.134 m" temp="32.2 C" />
+        <sample time="18:00 min" depth="2.134 m" />
+        <sample time="18:30 min" depth="2.743 m" />
+        <sample time="19:00 min" depth="2.743 m" />
+        <sample time="19:30 min" depth="2.743 m" />
+        <sample time="20:00 min" depth="2.438 m" />
+        <sample time="20:30 min" depth="2.134 m" />
+        <sample time="21:00 min" depth="1.829 m" />
+        <sample time="21:30 min" depth="2.438 m" />
+        <sample time="22:00 min" depth="3.353 m" />
+        <sample time="22:30 min" depth="3.353 m" />
+        <sample time="23:00 min" depth="4.267 m" />
+        <sample time="23:30 min" depth="4.572 m" />
+        <sample time="24:00 min" depth="4.572 m" />
+        <sample time="24:30 min" depth="3.962 m" temp="31.7 C" />
+        <sample time="25:00 min" depth="0.0 m" />
+        <sample time="25:30 min" depth="0.0 m" />
+        <sample time="26:00 min" depth="0.0 m" />
+        <sample time="26:30 min" depth="0.0 m" />
+        <sample time="27:00 min" depth="0.0 m" />
+        <sample time="27:30 min" depth="0.0 m" />
+        <sample time="28:00 min" depth="0.0 m" />
+        <sample time="28:30 min" depth="0.0 m" />
+        <sample time="29:00 min" depth="0.0 m" />
+        <sample time="29:30 min" depth="0.0 m" />
+        <sample time="30:00 min" depth="0.0 m" />
+        <sample time="30:30 min" depth="2.134 m" temp="32.2 C" />
+        <sample time="31:00 min" depth="4.572 m" />
+        <sample time="31:30 min" depth="4.572 m" />
+        <sample time="32:00 min" depth="5.182 m" />
+        <sample time="32:30 min" depth="4.572 m" temp="31.7 C" />
+        <sample time="33:00 min" depth="4.877 m" />
+        <sample time="33:30 min" depth="4.572 m" />
+        <sample time="34:00 min" depth="4.877 m" />
+        <sample time="34:30 min" depth="1.829 m" />
+        <sample time="35:00 min" depth="0.0 m" />
+        <sample time="35:30 min" depth="0.0 m" />
+        <sample time="36:00 min" depth="0.0 m" />
+        <sample time="36:30 min" depth="0.0 m" />
+        <sample time="37:00 min" depth="0.0 m" />
+        <sample time="37:30 min" depth="0.0 m" />
+        <sample time="38:00 min" depth="0.0 m" />
+        <sample time="38:30 min" depth="0.0 m" />
+        <sample time="39:00 min" depth="0.0 m" />
+        <sample time="39:30 min" depth="0.0 m" />
+        <sample time="40:00 min" depth="0.0 m" />
+        <sample time="40:30 min" depth="0.0 m" />
+        <sample time="41:00 min" depth="2.134 m" temp="32.2 C" />
+        <sample time="41:30 min" depth="4.877 m" />
+        <sample time="42:00 min" depth="5.182 m" />
+        <sample time="42:30 min" depth="4.877 m" />
+        <sample time="43:00 min" depth="4.267 m" />
+        <sample time="43:30 min" depth="3.658 m" temp="31.7 C" />
+        <sample time="44:00 min" depth="3.658 m" temp="32.2 C" />
+        <sample time="44:30 min" depth="3.962 m" temp="31.7 C" />
+        <sample time="45:00 min" depth="4.267 m" />
+        <sample time="45:30 min" depth="3.353 m" />
+        <sample time="46:00 min" depth="3.353 m" />
+        <sample time="46:30 min" depth="3.658 m" />
+        <sample time="47:00 min" depth="3.658 m" />
+        <sample time="47:30 min" depth="2.743 m" />
+        <sample time="48:00 min" depth="2.134 m" />
+        <sample time="48:30 min" depth="2.438 m" />
+      </divecomputer>
+    </dive>
+  </dives>
+</divelog>
