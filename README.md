@@ -8,6 +8,7 @@ Dive Analyzer turns single dive Subsurface SSRF/XML exports into a clear, intera
 - Ten real sample logs spanning DL7, Shearwater Teric, and sparse manual profiles
 - Depth profile plus available pressure, NDL, and temperature charts
 - Summary metrics, depth bands, ascent/descent rates, and source-reported SAC
+- Imperial or metric units throughout analysis (imperial by default)
 - Email/password signup and login with Supabase Auth
 - Private saved dive list with reopen, edit title/notes, and delete actions
 - Responsive layout and clear handling of missing measurements
