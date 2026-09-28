@@ -69,3 +69,7 @@ The React client reads files in the browser and `src/parser.ts` normalizes Subsu
 ## Deployment
 
 Netlify builds with `npm run build` and publishes `dist`; `netlify.toml` includes SPA routing. Set the two frontend environment variables in Netlify. Deployed URL: **https://dive-analyzer.netlify.app**.
+
+## Demo Video
+
+Unlisted YouTube demo: https://youtu.be/n96nU3Z6JsE
